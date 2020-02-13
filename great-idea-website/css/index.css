@@ -65,7 +65,23 @@ h1, h2, h3, h4, h5 {
 
 /* Your code starts here! */
 
+.navigation {
+display: inline-block;
+vertical-align: middle;
+}
 h1{
-	font-size: 30px;
+	font-size: 60px;
+}
+h2{
+	font-size: 20px;
+}
+.top-section{
+	display: inline-block;
+	width: 45%;
+
+.top-content{
+	display: inline-block;
+	width 45%;
+}
 
 }
